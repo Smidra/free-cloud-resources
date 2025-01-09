@@ -9,7 +9,7 @@ Slides: https://docs.google.com/presentation/d/1dHPTz1OPwxxUB0UHHzTWCI6wEN-BUK3d
 - [AWS](https://aws.amazon.com/free/?nc2=h_ql_pr_ft&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all)
 - [Azure](https://azure.microsoft.com/en-us/pricing/free-services)
 
-###
+### Střední ryby
 - [IBM](https://www.ibm.com/cloud/free)
 - [DigitalOcean](https://www.digitalocean.com/pricing)
 - [Oracle cloud](https://www.oracle.com/cloud/price-list/)
