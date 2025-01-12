@@ -24,3 +24,5 @@ Slides: https://docs.google.com/presentation/d/1dHPTz1OPwxxUB0UHHzTWCI6wEN-BUK3d
 - [Poskethost](https://pockethost.io/)
 - [WorkOs](https://workos.com/)
 - [Auth0](https://auth0.com/)
+- [Firebase](https://firebase.google.com/)
+- [Thinger.io](https://thinger.io/)
